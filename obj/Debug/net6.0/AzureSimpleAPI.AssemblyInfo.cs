@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureSimpleAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a8937b5a392e8d5c7795728601e113a601b2213")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6194a850437d85b0450ef657f8ba8bd00328471c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureSimpleAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureSimpleAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
