@@ -30,3 +30,4 @@ C:\Users\gayat\OneDrive\Desktop\AzureApp\AzureSimpleAPI\obj\Debug\net6.0\refint\
 C:\Users\gayat\OneDrive\Desktop\AzureApp\AzureSimpleAPI\obj\Debug\net6.0\AzureSimpleAPI.pdb
 C:\Users\gayat\OneDrive\Desktop\AzureApp\AzureSimpleAPI\obj\Debug\net6.0\AzureSimpleAPI.genruntimeconfig.cache
 C:\Users\gayat\OneDrive\Desktop\AzureApp\AzureSimpleAPI\obj\Debug\net6.0\ref\AzureSimpleAPI.dll
+C:\Users\gayat\OneDrive\Desktop\AzureApp\AzureSimpleAPI\obj\Debug\net6.0\AzureSimpleAPI.sourcelink.json
