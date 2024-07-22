@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\gayat\\OneDrive\\Desktop\\AzureApp\\AzureSimpleAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D932AC0-ADF5-4EC6-9550-5C5FC047205F}|..\\APITEst\\APITEst.csproj|c:\\users\\gayat\\onedrive\\desktop\\azureapp\\apitest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5840A916-DB23-4818-85B9-65A96BAE82D4}|AzureSimpleAPI.csproj|c:\\users\\gayat\\onedrive\\desktop\\azureapp\\azuresimpleapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5840A916-DB23-4818-85B9-65A96BAE82D4}|AzureSimpleAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -19,6 +22,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\gayat\\OneDrive\\Desktop\\AzureApp\\APITEst\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\APITEst\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\gayat\\OneDrive\\Desktop\\AzureApp\\APITEst\\UnitTest1.cs",
+              "RelativeToolTip": "..\\APITEst\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:34:52.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\gayat\\OneDrive\\Desktop\\AzureApp\\AzureSimpleAPI\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
