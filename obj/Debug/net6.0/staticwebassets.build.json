@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lof2kZ4iwDh0gudWymQYfldCRpMcuSnqTdCkNAXyEDE=",
+  "Source": "AzureSimpleAPI",
+  "BasePath": "_content/AzureSimpleAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
