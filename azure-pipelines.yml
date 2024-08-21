@@ -23,13 +23,10 @@ steps:
   inputs:
     command: 'publish'
     publishWebProjects: true
-
-- task: AzureRmWebAppDeployment@4
+- task: AzureWebApp@1
   inputs:
-    ConnectionType: 'AzureRM'
     azureSubscription: 'Pay-As-You-Go Dev/Test(4de81309-38de-4b5f-9efb-2a0e7881aff7)'
     appType: 'webApp'
-    WebAppName: 'checksampleapp'
-    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
-    enableCustomDeployment: true
-    DeploymentType: 'webDeploy'
+    appName: 'checksampleapp'
+    package: '$(System.DefaultWorkingDirectory)/**/*.zip'
+    deploymentMethod: 'auto'
